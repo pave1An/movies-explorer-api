@@ -1,5 +1,5 @@
 const jwtSecretKeyDev = 'jwt-secret-dev';
-const dataBaseHostDev = 'mongodb://127.0.0.1:27017/bitfilmsdb';
+const dataBaseHostDev = 'mongodb://127.0.0.1:27017/bitfilmsdb-test ';
 const cookieDeleteMessage = { message: 'Кука очищена!' };
 const errorTexts = {
   conflictEmail: 'Данный email уже используется',
