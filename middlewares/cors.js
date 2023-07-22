@@ -1,6 +1,7 @@
 const allowedCors = [
   'http://moovies-explorer.nomoredomains.xyz',
   'https://moovies-explorer.nomoredomains.xyz',
+  'http://localhost:3000',
 ];
 
 const allowCORS = (req, res, next) => {
